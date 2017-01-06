@@ -17,7 +17,7 @@
     "xml2json": "bin/xml2json"
   },
   "devDependencies": {
-    "code": "^1.4.1",
+    "code": "^1.5.0",
     "lab": "5.x.x"
   }
 }
